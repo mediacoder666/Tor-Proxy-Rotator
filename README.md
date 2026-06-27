@@ -1,5 +1,6 @@
 # Tor-Proxy-Rotator
 Tor Proxy Rotator is a Python tool that automatically starts and manages a Tor proxy with IP address rotation at specified intervals.
+
 Tor Proxy Rotator to narzędzie w języku Python, które automatycznie uruchamia i zarządza proxy Tor z funkcją rotacji adresu IP w określonych odstępach czasu.
 
 ## Features
