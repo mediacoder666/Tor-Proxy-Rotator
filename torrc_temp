@@ -1,0 +1,5 @@
+
+SOCKSPort 9052
+ControlPort 9051
+DataDirectory .\Data
+Log notice file .\tor_log.txt
